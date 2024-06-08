@@ -5,5 +5,5 @@ Hiện tại tôi đang là kỹ thuật viên phần cứng, nhưng vẫn có n
 - 🌱 Hiện tại tôi đang làm freelancer vào buổi tối. Chủ yếu là lập trình website back-end.
 - 👯 Tôi đang học hỏi thêm phần AI. 
 - 📫 Liên hệ với tôi: nhutnhut.pip@gmail.com
--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhut-share-code&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+- Ngôn ngữ thường dùng:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhut-share-code&layout=donut-vertical)]
