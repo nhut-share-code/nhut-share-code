@@ -7,4 +7,3 @@ Hiện tại tôi đang là kỹ thuật viên phần cứng, nhưng vẫn có n
 - 📫 Liên hệ với tôi: nhutnhut.pip@gmail.com
 - Ngôn ngữ thường dùng:<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhut-share-code&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhut-share-code&layout=compact)
